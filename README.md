@@ -1,1 +1,1 @@
-# PythonProg
+Középiskolai Python-os programok
